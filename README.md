@@ -2,7 +2,7 @@
 
 ## Overview
 
-Welcome to the Movie Seat Booking Project! This project is a frontend web application designed to simulate the process of selecting and booking seats for a movie. It is built entirely using HTML, CSS, and JavaScript, making it a great way to practice and demonstrate your skills in web development.this project is **Developed By:** [K.YUVA SHANKAR](https://www.linkedin.com/in/yuva-shankar-4ba786228?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+Welcome to the Movie Seat Booking Project! This project is a frontend web application designed to simulate the process of selecting and booking seats for a movie. It is built entirely using HTML, CSS, and JavaScript, making it a great way to practice and demonstrate your skills in web development and this project is **Developed By:** [K.YUVA SHANKAR](https://www.linkedin.com/in/yuva-shankar-4ba786228?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 
 ## Overview
